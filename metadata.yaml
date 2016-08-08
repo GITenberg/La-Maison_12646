@@ -1,0 +1,29 @@
+_repo: La-Maison_12646
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bordeaux, Henry
+    aliases:
+    - Bordeaux, Henri
+    - Bordeaux, Enrique
+    birthdate: 1870
+    deathdate: 1963
+    gutenberg_agent_id: '4478'
+    url: http://www.gutenberg.org/2009/agents/4478
+    wikipedia: http://fr.wikipedia.org/wiki/Henry_Bordeaux
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12646'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcc 'PQ'
+- GITenberg
+title: La Maison
+url: http://www.gutenberg.org/ebooks/12646
